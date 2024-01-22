@@ -1,0 +1,2 @@
+cleanall:
+	rm *.exe
